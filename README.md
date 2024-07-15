@@ -44,7 +44,20 @@ You can now see the tables in the command prompt and alter the
 Database.
 
 
-![Screen](./images/Newimage.png)
+![DB_Seed](/src/images/DB_Seed.gif)
+![Server](/src/images/Server_Connect.gif)
+![Dep_View](/src/images/Dep_View.gif)
+![Add_Dep](/src/images/Add_Dep.gif)
+![Role_View](/src/images/View_Roles.gif)
+![Employee_View](/src/images/View_Employees.gif)
+![Add_Role](/src/images/Add_Role_1.gif)
+![Add_Role_2](/src/images/Add_Role_2.gif)
+![Add_Employee_1](/src/images/Add_Employee_1.gif)
+![Add_Employee_2](/src/images/Add_Employee_2.gif)
+![Add_Employee_3](/src/images/Add_Employee_3.gif)
+![Add_Employee_4](/src/images/Add_Employee_4.gif)
+![Change_Role_1](/src/images/Change_Role_1.gif)
+![Change_Role_2](/src/images/Change_Role_2.gif)
 
 ## Credits
 

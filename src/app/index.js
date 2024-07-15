@@ -57,6 +57,7 @@ const init = async function (){
                 let managerId = await managerIdSearchByName(firstMan.firstmanager, lastMan.lastmanager);
                 managerId = parseInt(managerId);
                 employeeAdder(firstName.firstname, lastName.lastname, roleID, managerId);
+                break;
             case 'Update an Employee Role':
                 const fName = await questions.firstNameQuestion();
                 const lName = await questions.lastNameQuestion();
@@ -65,6 +66,7 @@ const init = async function (){
                 let roleId = await roleIdSearchbyName(newEmpRole.role);
                 roleId = parseInt(roleId);
                 updateEmployeeRole(fName.firstname, lName.lastname, roleId);
+                break;
         }
     }
 //   Queries to the db over the server
